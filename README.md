@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bossardl
-- 👀 I’m interested in biomedical engineering
-- 🌱 I’m currently learning biomed in an engineering institute Phelma in France
-- 💞️ I’m looking to collaborate on a project for a custumer
-- 📫 How to reach me ludovic.bossard@grenoble-inp.org
+- 👀 I’m interested in Computer Vision, State-of-the-art Artificial Intelligence (Graph and Geometric NN are my thing !) and all kind of signals.
+- 🌱 I’m currently at Georgia Tech (Atlanta, GA, US) to strengthen my skills in AI and signals.
+- 📫 How to reach me ludovic.bsrd@gmail.com
 
 <!---
 bossardl/bossardl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
