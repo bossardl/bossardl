@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bossardl
 - 👀 I’m interested in Computer Vision, State-of-the-art Artificial Intelligence (Graph and Geometric NN are my thing !) and all kind of signals.
 - 🌱 I’m currently at Georgia Tech (Atlanta, GA, US) to strengthen my skills in AI and signals.
-- 📫 How to reach me ludovic.bsrd@gmail.com
+- 📫 How to reach me ludovic.bsrd@gmail.com or on LinkedIn : https://www.linkedin.com/in/ludovic-bossard-biomed/?locale=en_US
 
 - Please take a look at the few projects I uploaded on my git. Feel free to comment, there is always room for improvements !
 
