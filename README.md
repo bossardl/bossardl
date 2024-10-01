@@ -6,7 +6,7 @@
 
 👀 My research interests include:
 - **Computer Vision**
-- **State-of-the-art AI** (Graph Neural Networks & Geometric Neural Networks)
+- **State-of-the-art AI** (Generative AI on CV Image, time series, Text -  Geometric Neural Networks)
 - **Signal Processing**
 
 📫 You can reach me at: 
