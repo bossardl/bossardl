@@ -1,18 +1,24 @@
-- 👋 Hi, I’m @bossardl
-- computer emoji Currently wokring at Fraunhofer as AI Researcher on Computer Vision, Signal Processing and Digital Twins
-- 🌱 After Engineering Institute Phelma (France), I was selected for finishing my education at Georgia Tech (Atlanta, GA, US) to strengthen my skills in AI and signals .
-- 👀 I’m interested in Computer Vision, State-of-the-art Artificial Intelligence (Graph and Geometric NN are my thing !) and all kind of signals.
+# 👋 Hi, I’m @bossardl
 
-- 📫 How to reach me ludovic.h.bossard@gmail.com or on LinkedIn : https://www.linkedin.com/in/ludovic-bossard-biomed/?locale=en_US
+💻 I'm currently an AI Researcher at Fraunhofer, focusing on **Computer Vision**, **Signal Processing**, and **Digital Twins**.
 
-Please take a look at the few projects I uploaded on my git. Feel free to comment, there is always room for improvements !
-- Biometric Identification - tackling the imbalance by handling hyperparameters
-- Applied Math to AI - Prediction of non-linear multi-variate function 
-- Computer Vision and AI for at-home Physiotherapy
-- 1D-3D conditional CycleGans to complete absence of modalities by generated scans
-- Image Denoising and enhancement - 250Go processed and compared to the BM3D benchmark
+🎓 After completing my studies at the Engineering Institute Phelma (France), I was selected to further my education at **Georgia Tech** (Atlanta, GA, US), where I honed my skills in **AI** and **signal processing**.
 
-<!---
-bossardl/bossardl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 My research interests include:
+- **Computer Vision**
+- **State-of-the-art AI** (Graph Neural Networks & Geometric Neural Networks)
+- **Signal Processing**
+
+📫 You can reach me at: 
+- **Email**: ludovic.h.bossard@gmail.com
+- **LinkedIn**: [Ludovic Bossard](https://www.linkedin.com/in/ludovic-bossard-biomed/?locale=en_US)
+
+🔧 **Check out some of my projects below:**
+
+- **Biometric Identification** – Tackling data imbalance through hyperparameter tuning.
+- **Applied Math to AI** – Predicting non-linear multivariate functions.
+- **Computer Vision & AI for At-Home Physiotherapy** – AI-driven solutions for remote healthcare.
+- **1D-3D Conditional CycleGANs** – Generating missing scan modalities for medical images.
+- **Image Denoising and Enhancement** – Processed 250GB of data and benchmarked against BM3D.
+
+Feel free to explore the repositories and leave comments—there's always room for improvement!
